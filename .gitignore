@@ -1,0 +1,12 @@
+
+target/
+
+.project
+
+.class
+
+.classpath
+
+.settings
+
+.idea
